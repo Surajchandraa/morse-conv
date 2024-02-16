@@ -1,5 +1,5 @@
-const morse_text=require('./src/morse_text');
-const morse_code=require('./src/morse_code');
+const morse_text=require('./morse_text');
+const morse_code=require('./morse_code');
 const readfile=require('./file_data');
 const save_to_file=require('./output_in_file');
 
