@@ -11,8 +11,8 @@
     console.log(suraj)
 
 
-    let joshi=morse.morse_to_text(".... .. / - .... .. ... / .. ... / ... ..- .-. .- .--- -.-. .... .- -. -.. .-. .- .--- --- ... .... ..");
-    console.log(joshi)
+    let data=morse.morse_to_text(".... .. / - .... .. ... / .. ... / ... ..- .-. .- .--- -.-. .... .- -. -.. .-. .- .--- --- ... .... ..");
+    console.log(data)
     
 
 
